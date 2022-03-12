@@ -1,6 +1,6 @@
 👋 Hi, I’m @executive-of-dysfxn
 
-- 👀 I’m interested in understanding my ADHD and sharing my voice
+- 🧠 I’m interested in understanding my ADHD and sharing my voice
 - 🌱 I’m currently learning how to better leverage Obsidian for my brain
 - 📫 How to reach me... just through GitHub for now
 
