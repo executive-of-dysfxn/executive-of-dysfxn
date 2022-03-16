@@ -1,9 +1,4 @@
-## 👋 This is your executive of dysfunction speaking...
-Make sure to buckle up while I figure out what this site will be.
-
-<br>
-
-### Welcome to the garden, let’s hope it thrives.
+## Welcome to the garden, let’s hope it thrives.
 *March 15, 2022*
 
 Listen, this whole website, digital garden, not-quite-blog journal, *thing* has been years in the making. I’ve started and forgotten blogs and gardens more times than I can keep track of with the 🌈 magic of ADHD! 🙌
