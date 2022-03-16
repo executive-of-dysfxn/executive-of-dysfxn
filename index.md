@@ -8,3 +8,5 @@ I’ll spare the reader my history of being a personal website creator and enjoy
 I’m starting to get it though: I can try out templates and methods **outside** of my Obsidian vault and see if I like what I’m looking at. I can even do this before (⁉️) I 100% commit to changing my entire Obsidian vault configuration, creating arbitrary workflows for myself, and then realize it’s not sustainable. What a world right? I can <ins>try</ins> something while I’m balls deep in hyperfocus mode in more of a sandbox space. And when I forget said thing exist two weeks later, it won’t have complicated my already messy vault space. 
 
 Well dang. Let’s do that.
+
+
